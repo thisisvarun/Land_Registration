@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+const contractAddress = "0xbF836078194Be6797502dbcC85313198379988BF";
+
 function App() {
   return (
     <div className="App">
